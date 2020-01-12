@@ -15,6 +15,10 @@ Collection of all the awesome works done with ❤️ by Ayush P Gupta
 - [workozy_app](https://www.workozy.com/) Flutter App which provides Field Force Management System. [Playstore Link](https://play.google.com/store/apps/details?id=com.workozy.android)
 - [GitHub Trending](https://github.com/apgapg/flutter_git_trending) A Flutter based project to view the trending repo(s) and developer(s). [Playstore Link](https://play.google.com/store/apps/details?id=com.git_trending.android)
 
+### ⭐ My VueJs Works
+- [IIT JEE Notes by Ayush P Gupta](https://github.com/apgapg/iitjee)
+- [DOT Services](https://dotappservices.in/)
+
 ### ⭐ My Medium Articles
 - https://medium.com/@ayushpguptaapg/using-streams-in-flutter-62fed41662e4
 - https://medium.com/flutterpub/validating-json-in-flutter-6f07ec9344f8
