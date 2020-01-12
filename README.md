@@ -9,8 +9,10 @@ Collection of all the awesome repo(s) made with ❤️ by Ayush P Gupta
 - [animating_location_pin](https://pub.dev/packages/animating_location_pin)  [![GitHub stars](https://img.shields.io/github/stars/apgapg/animating_location_pin.svg?style=social)](https://github.com/apgapg/animating_location_pin)  Flutter Animating Location Pin Widget providing Animating Location Pin Widget which can be used while fetching device location.
 - [json_table](https://pub.dartlang.org/packages/json_table)  [![GitHub stars](https://img.shields.io/github/stars/apgapg/json_table.svg?style=social)](https://github.com/apgapg/json_table)  Create Flutter Json Table from json map directly.
       
-### ⭐ My Flutter Apps
+### ⭐ My Flutter Apps/Websites
 - [flutter_profile](https://github.com/apgapg/flutter_profile)  [![GitHub stars](https://img.shields.io/github/stars/apgapg/flutter_profile.svg?style=social)](https://github.com/apgapg/flutter_profile)  Showcase My Portfolio: Ayush P Gupta on Playstore.
 - [flutter_sankalan](https://github.com/apgapg/flutter_sankalan)  [![GitHub stars](https://img.shields.io/github/stars/apgapg/flutter_sankalan.svg?style=social)](https://github.com/apgapg/flutter_sankalan)  Flutter App which allows reading/uploading short stories.
-- [workozy_app](https://www.workozy.com/) Flutter App which provides Field Force Management System.
+- [workozy_app](https://www.workozy.com/) Flutter App which provides Field Force Management System. [Playstore Link](https://play.google.com/store/apps/details?id=com.workozy.android)
+- [GitHub Trending](https://github.com/apgapg/flutter_git_trending) A Flutter based project to view the trending repo(s) and developer(s). [Playstore Link](https://play.google.com/store/apps/details?id=com.git_trending.android)
+
 
