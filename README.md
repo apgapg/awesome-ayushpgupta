@@ -15,4 +15,12 @@ Collection of all the awesome works done with ❤️ by Ayush P Gupta
 - [workozy_app](https://www.workozy.com/) Flutter App which provides Field Force Management System. [Playstore Link](https://play.google.com/store/apps/details?id=com.workozy.android)
 - [GitHub Trending](https://github.com/apgapg/flutter_git_trending) A Flutter based project to view the trending repo(s) and developer(s). [Playstore Link](https://play.google.com/store/apps/details?id=com.git_trending.android)
 
+### ⭐ My Medium Articles
+- https://medium.com/@ayushpguptaapg/using-streams-in-flutter-62fed41662e4
+- https://medium.com/flutterpub/validating-json-in-flutter-6f07ec9344f8
+- https://medium.com/@ayushpguptaapg/demystifying-and-hashcode-in-dart-2f328d1ab1bc
+- https://medium.com/flutterpub/showing-custom-flutter-red-screen-error-c67412f3cec
 
+### ⭐ My Youtube Videos
+- [Keeping two Flutter Versions(Branches) simultaneously](https://www.youtube.com/watch?v=guV9ascgzXU&t=6s)
+- [Building and Releasing Flutter Desktop MacOS App](https://www.youtube.com/watch?v=v56q8O9yZ3k&t=7s)
